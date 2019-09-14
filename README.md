@@ -1,2 +1,2 @@
 # Discordbot.py
-basic discord for practice
+basic discord bot for practice
