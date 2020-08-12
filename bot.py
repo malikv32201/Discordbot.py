@@ -7,7 +7,7 @@ from discord.ext.commands import Bot
 
 
 BOT_PREFIX = ("?", "!")
-TOKEN = '#insert own token code here'
+TOKEN = '#insert_token_code_here'
 
 client = Bot(command_prefix=BOT_PREFIX)
 
